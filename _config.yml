@@ -1,14 +1,9 @@
-title: <p> Yash Joshi </p>
+title: Yash Joshi
 logo: /assets/img/logo.png
 
 description:
-  <p>
-  
-  <br>   
+  <p>   
   I'm .net developer, learning Data Science and Machine Learning 
-  <br>
   </p>
-
-
 
 theme: jekyll-theme-minimal
