@@ -1,6 +1,15 @@
-title: <p align='cemter'>Yash Joshi</p>
+title: <p align="center">Yash Joshi</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: <p align="center">
+<a href="https://www.linkedin.com/in/iyashjoshi" >LinkedIn</a> |
+<a href="https://github.com/Yash-Joshi">GitHub</a>
+
+<br>
+I have 8 year of Industry experience
+I have worked on .NET Technologies, currenlty 
+I am learning Data Science, AI and ML
+<br>
+</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
